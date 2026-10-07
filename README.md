@@ -2,6 +2,8 @@
 
 [![tests](https://github.com/Edward-Owusu/sox-itgc-audit-framework/actions/workflows/tests.yml/badge.svg)](https://github.com/Edward-Owusu/sox-itgc-audit-framework/actions/workflows/tests.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23220075.svg)](https://doi.org/10.5281/zenodo.23220075)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sox-itgc-audit-framework.streamlit.app)
 
 An open-source tool for testing the **IT general controls (ITGCs)** behind a company's financial reporting. It reads standard exports from a financial system (user listings, role assignments, HR terminations, change logs, and job histories), tests **13 controls** across access, change management, and operations against the **full population**, builds a **segregation-of-duties conflict matrix**, and produces an auditor-style **testing worksheet**.
 
@@ -64,6 +66,8 @@ Open the HTML file in the `reports` folder for the worksheet and matrix. Pre-gen
 pip install -r requirements.txt
 streamlit run app/streamlit_app.py
 ```
+
+Try the hosted version with sample data at https://sox-itgc-audit-framework.streamlit.app, or run it locally:
 
 ### Use in automation
 
