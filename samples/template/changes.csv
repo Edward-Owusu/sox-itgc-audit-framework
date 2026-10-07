@@ -1,0 +1,2 @@
+change_id,description,type,developer,approver,approved_date,tested,deployed_by,deployed_date
+CHG-4100,Vendor import mapping,standard,svc_batch,fbrennan,2026-01-15,true,kcastro,2026-01-20

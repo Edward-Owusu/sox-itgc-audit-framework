@@ -1,0 +1,27 @@
+change_id,description,type,developer,approver,approved_date,tested,deployed_by,deployed_date
+CHG-4100,Vendor import mapping,standard,svc_batch,fbrennan,2026-01-15,true,kcastro,2026-01-20
+CHG-4101,Invoice template change,standard,svc_batch,fbrennan,2026-03-27,true,kcastro,2026-03-30
+CHG-4102,Invoice template change,standard,svc_batch,fbrennan,2026-02-26,true,kcastro,2026-02-28
+CHG-4103,Vendor import mapping,standard,svc_batch,fbrennan,,true,kcastro,2026-05-22
+CHG-4104,GL close script change,standard,svc_batch,fbrennan,2026-02-03,true,kcastro,2026-02-07
+CHG-4105,Vendor import mapping,standard,svc_batch,fbrennan,2026-02-19,true,svc_batch,2026-02-20
+CHG-4106,AP aging report fix,standard,svc_batch,fbrennan,2026-08-03,true,kcastro,2026-08-04
+CHG-4107,GL close script change,standard,svc_batch,fbrennan,2026-06-09,true,kcastro,2026-06-05
+CHG-4108,Tax rate table update,standard,svc_batch,fbrennan,2026-03-02,true,kcastro,2026-03-07
+CHG-4109,GL close script change,standard,svc_batch,fbrennan,2026-01-24,true,kcastro,2026-01-29
+CHG-4110,Payroll export format,standard,svc_batch,fbrennan,2026-06-21,true,kcastro,2026-06-24
+CHG-4111,AP aging report fix,standard,svc_batch,fbrennan,2026-09-20,true,kcastro,2026-09-21
+CHG-4112,Tax rate table update,standard,svc_batch,fbrennan,2026-06-12,true,svc_batch,2026-06-13
+CHG-4113,Payroll export format,standard,svc_batch,fbrennan,2026-02-25,true,kcastro,2026-03-02
+CHG-4114,AP aging report fix,standard,svc_batch,fbrennan,2026-01-18,true,kcastro,2026-01-22
+CHG-4115,Payroll export format,standard,svc_batch,fbrennan,2026-06-01,true,kcastro,2026-06-04
+CHG-4116,Invoice template change,standard,svc_batch,fbrennan,2026-03-25,true,kcastro,2026-03-26
+CHG-4117,Vendor import mapping,standard,svc_batch,fbrennan,2026-06-25,true,kcastro,2026-06-28
+CHG-4118,GL close script change,standard,svc_batch,fbrennan,2026-03-13,true,kcastro,2026-03-17
+CHG-4119,Payroll export format,standard,svc_batch,fbrennan,2026-08-25,true,kcastro,2026-08-29
+CHG-4120,Payroll export format,standard,svc_batch,fbrennan,2026-02-22,true,svc_batch,2026-02-27
+CHG-4121,GL close script change,standard,svc_batch,fbrennan,2026-05-22,true,kcastro,2026-05-24
+CHG-4122,GL close script change,standard,svc_batch,fbrennan,2026-06-06,true,kcastro,2026-06-09
+CHG-4123,Payroll export format,standard,svc_batch,fbrennan,2026-06-07,true,kcastro,2026-06-10
+CHG-E900,Emergency fix: payment batch failure,emergency,svc_batch,fbrennan,2026-03-03,true,kcastro,2026-03-02
+CHG-E901,Emergency fix: payment batch failure,emergency,svc_batch,fbrennan,2026-06-01,true,kcastro,2026-05-31

@@ -1,0 +1,13 @@
+{
+  "_comment": "Incompatible role pairs. Adjust to match your application's roles.",
+  "conflicts": [
+    {"roles": ["Vendor Maintenance", "Payment Approval"], "risk": "A user could create a fictitious vendor and approve payments to it."},
+    {"roles": ["Create Purchase Order", "Approve Purchase Order"], "risk": "A user could create and approve their own purchases."},
+    {"roles": ["Create Purchase Order", "Receive Goods"], "risk": "A user could order and confirm receipt of goods that never arrived."},
+    {"roles": ["Journal Entry Create", "Journal Entry Approve"], "risk": "A user could record and approve their own journal entries."},
+    {"roles": ["Payroll Maintenance", "Payroll Approval"], "risk": "A user could add a payee or change pay and approve the payroll run."},
+    {"roles": ["Customer Maintenance", "Cash Receipts"], "risk": "A user could change customer records to conceal diverted receipts."},
+    {"roles": ["User Administration", "Payment Approval"], "risk": "A user could grant themselves any access and approve payments."},
+    {"roles": ["User Administration", "Journal Entry Approve"], "risk": "A user could grant themselves access and approve entries."}
+  ]
+}

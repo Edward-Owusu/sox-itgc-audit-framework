@@ -1,0 +1,31 @@
+user,role
+aabbott,Vendor Maintenance
+aabbott,Create Purchase Order
+bfischer,Payment Approval
+ckowalski,Customer Maintenance
+dpereira,Cash Receipts
+eunderhill,Journal Entry Create
+fbrennan,Journal Entry Approve
+fbrennan,Approve Purchase Order
+ggrant,Payroll Maintenance
+hlindqvist,Payroll Approval
+iquintero,Create Purchase Order
+jvance,Receive Goods
+kcastro,User Administration
+lhughes,Developer
+mmensah,Reporting
+nrahman,Vendor Maintenance
+nrahman,Create Purchase Order
+owhitaker,Payment Approval
+pdelgado,Customer Maintenance
+qiqbal,Cash Receipts
+rnovak,Journal Entry Create
+ssato,Journal Entry Approve
+ssato,Approve Purchase Order
+tyilmaz,Payroll Maintenance
+uekwueme,Payroll Approval
+vjensen,Create Purchase Order
+aabbott,Payment Approval
+eunderhill,Journal Entry Approve
+kcastro,Payment Approval
+iquintero,Receive Goods

@@ -1,0 +1,27 @@
+change_id,description,type,developer,approver,approved_date,tested,deployed_by,deployed_date
+CHG-4100,AP aging report fix,standard,svc_batch,qmensah,2026-08-10,true,vnovak,2026-08-12
+CHG-4101,Payroll export format,standard,svc_batch,qmensah,2026-02-21,true,vnovak,2026-02-24
+CHG-4102,Invoice template change,standard,svc_batch,qmensah,2026-07-03,true,vnovak,2026-07-07
+CHG-4103,Payroll export format,standard,svc_batch,qmensah,2026-09-18,true,vnovak,2026-09-20
+CHG-4104,AP aging report fix,standard,svc_batch,qmensah,2026-06-10,true,vnovak,2026-06-13
+CHG-4105,Payroll export format,standard,svc_batch,qmensah,2026-05-30,true,vnovak,2026-05-31
+CHG-4106,Invoice template change,standard,svc_batch,qmensah,2026-09-17,true,vnovak,2026-09-22
+CHG-4107,Vendor import mapping,standard,svc_batch,qmensah,2026-04-26,true,vnovak,2026-04-28
+CHG-4108,Vendor import mapping,standard,svc_batch,qmensah,2026-01-09,true,vnovak,2026-01-12
+CHG-4109,Vendor import mapping,standard,svc_batch,qmensah,2026-04-27,true,vnovak,2026-04-28
+CHG-4110,Vendor import mapping,standard,svc_batch,qmensah,2026-08-06,true,vnovak,2026-08-10
+CHG-4111,Invoice template change,standard,svc_batch,qmensah,2026-06-03,true,vnovak,2026-06-07
+CHG-4112,Invoice template change,standard,svc_batch,qmensah,2026-04-01,true,vnovak,2026-04-05
+CHG-4113,AP aging report fix,standard,svc_batch,qmensah,2026-03-05,true,vnovak,2026-03-06
+CHG-4114,AP aging report fix,standard,svc_batch,qmensah,2026-04-16,true,vnovak,2026-04-19
+CHG-4115,Tax rate table update,standard,svc_batch,qmensah,2026-03-02,true,vnovak,2026-03-06
+CHG-4116,AP aging report fix,standard,svc_batch,qmensah,2026-06-25,true,vnovak,2026-06-30
+CHG-4117,AP aging report fix,standard,svc_batch,qmensah,2026-08-15,true,vnovak,2026-08-17
+CHG-4118,Payroll export format,standard,svc_batch,qmensah,2026-07-30,true,vnovak,2026-08-03
+CHG-4119,GL close script change,standard,svc_batch,qmensah,2026-08-01,true,vnovak,2026-08-02
+CHG-4120,Vendor import mapping,standard,svc_batch,qmensah,2026-02-09,true,vnovak,2026-02-10
+CHG-4121,Tax rate table update,standard,svc_batch,qmensah,2026-01-22,true,vnovak,2026-01-23
+CHG-4122,AP aging report fix,standard,svc_batch,qmensah,2026-07-04,true,vnovak,2026-07-09
+CHG-4123,Invoice template change,standard,svc_batch,qmensah,2026-09-10,true,vnovak,2026-09-12
+CHG-E900,Emergency fix: payment batch failure,emergency,svc_batch,qmensah,2026-03-03,true,vnovak,2026-03-02
+CHG-E901,Emergency fix: payment batch failure,emergency,svc_batch,qmensah,2026-06-01,true,vnovak,2026-05-31

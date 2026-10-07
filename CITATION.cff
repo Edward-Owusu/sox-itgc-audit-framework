@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "sox_itgc: SOX IT General Control Testing and Segregation-of-Duties Analysis for Smaller Public and Pre-IPO Companies"
+authors:
+  - family-names: Owusu
+    given-names: Edward
+version: 0.1.0
+date-released: 2026-10-07
+license: MIT
+repository-code: "https://github.com/Edward-Owusu/sox-itgc-audit-framework"
+keywords:
+  - Sarbanes-Oxley
+  - IT general controls
+  - internal control over financial reporting
+  - segregation of duties
+  - IT audit
+  - continuous auditing

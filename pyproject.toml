@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sox-itgc"
+version = "0.1.0"
+description = "SOX IT general control testing worksheet and segregation-of-duties analysis for smaller public and pre-IPO companies"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [{name = "Edward Owusu"}]
+keywords = ["sox", "itgc", "internal audit", "segregation of duties", "icfr", "it audit", "grc", "compliance"]
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "License :: OSI Approved :: MIT License",
+  "Operating System :: OS Independent",
+  "Topic :: Security",
+]
+
+[project.urls]
+Homepage = "https://github.com/Edward-Owusu/sox-itgc-audit-framework"
+
+[project.scripts]
+sox-itgc = "sox_itgc.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+sox_itgc = ["data/*.json"]

@@ -1,0 +1,10 @@
+{
+  "_comment": "Default audit parameters. Each engagement's settings.json overrides these.",
+  "organization": "Unnamed organization",
+  "system": "Financial application",
+  "period_start": "2026-01-01",
+  "period_end": "2026-09-30",
+  "termination_removal_days": 3,
+  "emergency_approval_days": 2,
+  "privileged_departments": ["IT"]
+}

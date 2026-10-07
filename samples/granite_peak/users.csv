@@ -1,0 +1,25 @@
+user,name,employee_id,department,status,account_type,privileged,created_date,disabled_date,last_login,access_request_id,access_request_approved_date
+aabbott,Alana Abbott,E200,Accounts Payable,active,individual,false,2023-09-09,,2026-09-21,AR-1000,2023-09-07
+bfischer,Brian Fischer,E201,Accounts Payable,active,individual,false,2024-01-22,,2026-09-21,AR-1001,2024-01-18
+ckowalski,Chen Kowalski,E202,Accounts Receivable,active,individual,false,2024-10-10,,2026-09-21,AR-1002,2024-10-09
+dpereira,Dana Pereira,E203,Accounts Receivable,disabled,individual,false,2024-09-20,2026-03-14,2026-03-12,AR-1003,2024-09-16
+eunderhill,Eli Underhill,E204,General Ledger,active,individual,false,2023-10-01,,2026-09-22,AR-1004,2023-09-29
+fbrennan,Fatima Brennan,E205,Controller,active,individual,true,2023-07-24,,2026-09-23,AR-1005,2023-07-20
+ggrant,Gabe Grant,E206,Payroll,active,individual,false,2024-02-19,,2026-05-19,AR-1006,2024-02-17
+hlindqvist,Hana Lindqvist,E207,HR,active,individual,false,2023-09-03,,2026-09-20,AR-1007,2023-09-01
+iquintero,Ivan Quintero,E208,Purchasing,active,individual,false,2025-06-15,,2026-09-22,AR-1008,2025-06-11
+jvance,Julia Vance,E209,Warehouse,disabled,individual,false,2025-02-06,2026-06-27,2026-06-25,AR-1009,2025-02-05
+kcastro,Kofi Castro,E210,IT,active,individual,true,2023-06-21,,2026-09-21,AR-1010,2023-06-20
+lhughes,Lena Hughes,E211,IT,active,individual,true,2023-11-13,,2026-09-30,AR-1011,2023-11-10
+mmensah,Marco Mensah,E212,Finance,active,individual,false,2024-05-07,,2026-09-21,AR-1012,2024-05-03
+nrahman,Nia Rahman,E213,Accounts Payable,active,individual,false,2025-01-09,,2026-09-24,AR-1013,2025-01-05
+owhitaker,Omar Whitaker,E214,Accounts Payable,disabled,individual,false,2025-01-23,2026-09-02,2026-08-13,AR-1014,2025-01-19
+pdelgado,Priya Delgado,E215,Accounts Receivable,active,individual,false,2023-05-26,,2026-09-25,AR-1015,2023-05-25
+qiqbal,Quinn Iqbal,E216,Accounts Receivable,active,individual,false,2023-02-14,,2026-09-28,AR-1016,2023-02-10
+rnovak,Rosa Novak,E217,General Ledger,active,individual,false,2023-08-19,,2026-09-26,AR-1017,2023-08-15
+ssato,Sean Sato,E218,Controller,active,individual,false,2026-08-20,,2026-09-20,,
+tyilmaz,Tess Yilmaz,E219,Payroll,active,individual,false,2026-05-20,,2026-09-22,AR-1019,2026-05-29
+uekwueme,Umar Ekwueme,E220,HR,active,individual,false,2026-06-28,,2026-09-25,AR-1020,2026-06-24
+vjensen,Vera Jensen,E221,Purchasing,active,individual,false,2026-07-01,,2026-09-27,AR-1021,2026-06-28
+svc_batch,Nightly batch service,,IT,active,service,false,2022-05-01,,2026-09-30,AR-0900,2022-04-28
+erpadmin,,,IT,active,generic,true,2021-03-01,,2026-09-28,,

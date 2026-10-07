@@ -1,0 +1,36 @@
+{
+  "frameworks": "IT general controls supporting internal control over financial reporting (COSO 2013 Principle 11; PCAOB AS 2201). NIST SP 800-53 Rev. 5 references are provided for cross-walking.",
+  "domains": {
+    "APD": "Access to programs and data",
+    "PC": "Program change",
+    "CO": "Computer operations"
+  },
+  "controls": [
+    {"id": "APD-01", "domain": "APD", "objective": "New user access is approved before it is granted.",
+     "procedure": "For every account created in the period, inspect evidence of an approved access request.", "nist": ["AC-2"]},
+    {"id": "APD-02", "domain": "APD", "objective": "Access for terminated employees is removed promptly.",
+     "procedure": "Match HR terminations in the period to application accounts; confirm each was disabled within the allowed number of days and not used afterward.", "nist": ["AC-2", "PS-4"]},
+    {"id": "APD-03", "domain": "APD", "objective": "User access is reviewed by management every quarter.",
+     "procedure": "Confirm a review was completed by its due date for every quarter in the period and that exceptions found were remediated.", "nist": ["AC-2"]},
+    {"id": "APD-04", "domain": "APD", "objective": "Privileged access is restricted to appropriate personnel.",
+     "procedure": "Inspect all accounts with administrative privileges; confirm each belongs to an authorized department and is assigned to a named person.", "nist": ["AC-6"]},
+    {"id": "APD-05", "domain": "APD", "objective": "Users do not hold incompatible duties.",
+     "procedure": "Compare each active user's roles against the segregation-of-duties rule set.", "nist": ["AC-5"]},
+    {"id": "APD-06", "domain": "APD", "objective": "Shared and generic accounts are not used.",
+     "procedure": "Identify active accounts not assigned to an individual or an approved service.", "nist": ["IA-2", "AC-2"]},
+    {"id": "PC-01", "domain": "PC", "objective": "Changes are approved before they are deployed to production.",
+     "procedure": "For every standard change deployed in the period, confirm an approval dated on or before deployment.", "nist": ["CM-3"]},
+    {"id": "PC-02", "domain": "PC", "objective": "Changes are tested before deployment.",
+     "procedure": "For every change deployed in the period, inspect evidence of testing.", "nist": ["CM-3", "CM-4"]},
+    {"id": "PC-03", "domain": "PC", "objective": "Developers cannot deploy their own changes to production.",
+     "procedure": "Compare the developer and the person who deployed each change.", "nist": ["CM-5", "AC-5"]},
+    {"id": "PC-04", "domain": "PC", "objective": "Approvers are independent of the developer.",
+     "procedure": "Compare the developer and the approver of each change.", "nist": ["CM-3", "AC-5"]},
+    {"id": "PC-05", "domain": "PC", "objective": "Emergency changes are approved after the fact within the allowed time.",
+     "procedure": "For every emergency change, confirm retroactive approval within the allowed number of days.", "nist": ["CM-3"]},
+    {"id": "CO-01", "domain": "CO", "objective": "Failed backup and batch jobs are followed up.",
+     "procedure": "For every failed job in the period, confirm a ticket documents investigation and resolution.", "nist": ["CP-9", "SI-4"]},
+    {"id": "CO-02", "domain": "CO", "objective": "Backups can be restored.",
+     "procedure": "Confirm at least one successful restore test of the financial system during the period.", "nist": ["CP-4", "CP-9(1)"]}
+  ]
+}

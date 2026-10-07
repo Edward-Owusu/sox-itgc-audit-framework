@@ -1,0 +1,2 @@
+user,name,employee_id,department,status,account_type,privileged,created_date,disabled_date,last_login,access_request_id,access_request_approved_date
+aabbott,Alana Abbott,E200,Accounts Payable,active,individual,false,2023-09-09,,2026-09-21,AR-1000,2023-09-07

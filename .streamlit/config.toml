@@ -1,0 +1,8 @@
+# Theme for this dashboard: forest green on cream, distinct from the other tools in the series.
+[theme]
+base = "light"
+primaryColor = "#166534"
+backgroundColor = "#FBFAF5"
+secondaryBackgroundColor = "#E7EFE3"
+textColor = "#14231A"
+font = "sans serif"
