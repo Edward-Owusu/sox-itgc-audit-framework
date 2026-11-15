@@ -2,5 +2,5 @@
 
 from .engine import load_engagement, parse_engagement, test_controls
 
-__version__ = "0.1.0"
+__version__ = "0.2.0"
 __all__ = ["load_engagement", "parse_engagement", "test_controls", "__version__"]
